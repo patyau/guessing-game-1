@@ -1,6 +1,6 @@
 var question1 = prompt('Is the sky blue?');
     
-	if(question1 == 'yes'){
+	if(question1 == 'yes && YES'){
     	alert("Correct, the sky is blue!");
     } else {
     	alert("Sorry, better luck on the next question.");
@@ -23,9 +23,6 @@ var question3 = prompt('Is the answer to this question yes, or no?');
 	} else {
 		alert("Sorry, better luck next time.");
 	}
-
-var y = 'yes'
-var n = 'no'
 
 
 
