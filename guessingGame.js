@@ -43,5 +43,3 @@ ques2();
 ques3();
 
 correct.innerHTML = 'Thank you for playing the Guessing Game ' + userName + '! You got ' + counter + ' out of 3 correct.';
-
-
